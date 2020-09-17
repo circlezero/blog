@@ -27,7 +27,7 @@ module.exports = {
   ],
   author: {
     name: "CircleZero",
-    photo: "/photo.jpg",
+    photo: "/photo.png",
     bio:
       "개발 블로그 / 삽질한 것을 어떻게 해결했는지, 쉽게 이해가 안가던것을 이해했을 때, 내 생각을 남기고 싶을 때 글을 남깁니다.",
     contacts: {
@@ -38,7 +38,7 @@ module.exports = {
       github: "/circlezero",
       rss: "",
       vkontakte: "",
-      linkedin: "/in/wonyeong-cho-200113181/",
+      linkedin: "/in/circlezero",
       instagram: "",
       line: "",
       gitlab: "",
